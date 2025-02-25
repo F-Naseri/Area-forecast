@@ -103,13 +103,6 @@ def predict_area(population):
     #except ValueError:
         #print("Invalid input. Please enter a number or 'exit'.")
 
-# ... (بقیه کدهای پروژه شما، شامل تعریف توابع، اسکریپت وب اسکرپینگ، آموزش مدل و غیره)
-
-# ... (تعریف تابع predict_area)
-
-# ... (آموزش مدل: model.fit(X_train, y_train))
-
-# --- شروع کدهای PyQt ---
 from PyQt6.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout
 
 app = QApplication([])
@@ -140,4 +133,3 @@ predict_button.clicked.connect(lambda: predict_area_gui_qt(population_entry.text
 
 window.show()
 app.exec()
-# --- پایان کدهای PyQt ---
