@@ -20,7 +20,7 @@ This project demonstrates skills in web scraping, database interaction, data ana
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/F-Naseri/Area-forecast/blob/main/Area%20forecast.py
     cd [repository-directory]
     ```
 
